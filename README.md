@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvhfrks12678&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/tvhfrks12678/github-readme-stats)
 
 <!--
 **tvhfrks12678/tvhfrks12678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
