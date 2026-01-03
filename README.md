@@ -64,15 +64,15 @@
   - デプロイ
     - Vercel Heroku Firebase 参考書でAWSのインフラ構築
   - テストコード
-   - Minitest RSpec
+    - Minitest RSpec
   - ORM
-   - Active Record
+    - Active Record
   - 工程
     - 要件定義から実装、テスト
   - タスク管理
-   - GitHub Issue
+    - GitHub Issue
   - 認証
-   - Rails Tutorialでハッシュ化しての暗号化
+    - Rails Tutorialでハッシュ化しての暗号化
 
 <!--
 ## Hi there 👋
