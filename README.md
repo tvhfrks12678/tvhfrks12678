@@ -51,13 +51,13 @@
   - エディタ
     - Antigravity
   - DB設計
-   - 技術試験で10-20のテーブルをER図で書く
+    - 技術試験で10-20のテーブルをER図で書く
   - 設計
-   - N+1問題
-     - 技術試験でN+1問題をとく
+    - N+1問題
+      - 技術試験でN+1問題をとく
    - Fat Controller対策
-     - 技術試験でSinatraでRoute、Controllerが同一ファイルにあるのを分割
-     - RailsでService Object、Query Object、Form Objectなどを導入
+      - 技術試験でSinatraでRoute、Controllerが同一ファイルにあるのを分割
+      - RailsでService Object、Query Object、Form Objectなどを導入
   - Docker
     - Rails Vue.js PostgeSQL
     - 技術試験でDockerを立ち上げコードを修正
