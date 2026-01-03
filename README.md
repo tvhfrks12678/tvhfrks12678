@@ -1,8 +1,81 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 経験スキル
+  - システム開発歴4年8ヶ月
+  - 規模: 4-10人、役割: メンバー
+  - プログラミング言語
+    - JavaScript TypeScriipt VBA Java C# PHP
+  - フレームワーク
+    - React Native Jquery React OpenLayers Dojo .NET Core Unity JSP NestJs CakePHP
+  - 状態管理
+  - Recoil useState useContext
+  - デザイン
+    - HTML CSS Bootstrap
+  - エディタ
+    - Eclipse Visual Studio サクラエディタ VS Code メモ帳 Cursor
+  - その他
+    - Ajax JSON
+  - DB
+    - PostgreSQL SQL Server
+  - バージョン管理
+    - SVN、Git
+  - OS
+    - Windows Mac Linux iOS Android
+  メッセージ
+    - IP Messenger Chatwork Slack Gmail
+  - 工程
+    - 詳細設計書なしでの実装 単体試験 結合試験、デザイナー、企画者のスライド、口頭の指示からの実装
+  - 設計書
+    - 既存システムへの機能追加時に、機能・画面説明書の作成(Word、Excel)
+  - DB設計
+    - カラム数が5個程度のテーブル設計(Excel)、カラムの追加
+  - タスク管理
+    - Excel スプレッドシート Backlog Redmine
+  - Docker
+    - MySql
+  - インフラ
+    - Firebase
+  - デプロイ
+    - iOSとAndroidをビルドして、ストアに登録
+  - ORM
+    - TypeORM
 
-## Hi there 👋
+- 個人学習スキル
+  - 規模: 1人
+  - プログラミング言語
+    - Python Ruby
+  - フレームワーク
+    - FastApi Next.js Rails
+  - 状態管理
+    - Redux
+  - デザイン
+    - Tailwind Shadcn DaisyUI
+  - エディタ
+    - Antigravity
+  - DB設計
+   - 技術試験で10-20のテーブルをER図で書く
+  - 設計
+   - N+1問題
+     - 技術試験でN+1問題をとく
+   - Fat Controller対策
+     - 技術試験でSinatraでRoute、Controllerが同一ファイルにあるのを分割
+     - RailsでService Object、Query Object、Form Objectなどを導入
+  - Docker
+    - Rails Vue.js
+    - 技術試験でDockerを立ち上げコードを修正
+  - デプロイ
+    - Vercel Heroku Firebase 参考書でAWSのインフラ構築
+  - テストコード
+   - Minitest RSpec
+  - ORM
+   - Active Record
+  - 工程
+    - 要件定義から実装、テスト
+  - タスク管理
+   - GitHub Issue
+  - 認証
+   - Rails Tutorialでハッシュ化しての暗号化
 
 <!--
+## Hi there 👋
 **tvhfrks12678/tvhfrks12678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
