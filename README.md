@@ -59,7 +59,7 @@
      - 技術試験でSinatraでRoute、Controllerが同一ファイルにあるのを分割
      - RailsでService Object、Query Object、Form Objectなどを導入
   - Docker
-    - Rails Vue.js
+    - Rails Vue.js PostgeSQL
     - 技術試験でDockerを立ち上げコードを修正
   - デプロイ
     - Vercel Heroku Firebase 参考書でAWSのインフラ構築
