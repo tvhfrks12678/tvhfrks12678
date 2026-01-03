@@ -43,7 +43,7 @@
   - プログラミング言語
     - Python Ruby
   - フレームワーク
-    - FastApi Next.js Rails
+    - FastApi Next.js Rails Reaflet
   - 状態管理
     - Redux
   - デザイン
