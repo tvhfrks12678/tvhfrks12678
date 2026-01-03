@@ -6,7 +6,7 @@
   - フレームワーク
     - React Native Jquery React OpenLayers Dojo .NET Core Unity JSP NestJs CakePHP
   - 状態管理
-  - Recoil useState useContext
+    - Recoil useState useContext
   - デザイン
     - HTML CSS Bootstrap
   - エディタ
