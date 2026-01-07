@@ -10,7 +10,7 @@
   - デザイン
     - HTML CSS Bootstrap
   - エディタ
-    - Eclipse Visual Studio サクラエディタ VS Code メモ帳 Cursor
+    - Eclipse Visual Studio サクラエディタ VS Code メモ帳
   - その他
     - Ajax JSON
   - DB
@@ -49,7 +49,7 @@
   - デザイン
     - Tailwind Shadcn DaisyUI
   - エディタ
-    - Antigravity
+    - Antigravity Cursor
   - DB設計
     - 技術試験で10-20のテーブルをER図で書く
   - 設計
