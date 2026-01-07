@@ -19,7 +19,7 @@
     - SVN、Git
   - OS
     - Windows Mac Linux iOS Android
-  メッセージ
+  - メッセージ
     - IP Messenger Chatwork Slack Gmail
   - 工程
     - 詳細設計書なしでの実装 単体試験 結合試験、デザイナー、企画者のスライド、口頭の指示からの実装
