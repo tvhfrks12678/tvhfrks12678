@@ -60,7 +60,7 @@
       - RailsでService Object、Query Object、Form Objectなどを導入
   - Docker
     - Rails Vue.js PostgeSQL
-    - 技術試験でDockerを立ち上げコードを修正
+    - 技術試験でDocker(Rails MySql)を立ち上げコードを修正
   - デプロイ
     - Vercel Heroku Firebase 参考書でAWSのインフラ構築
   - テストコード
