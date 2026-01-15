@@ -6,7 +6,7 @@
   - フレームワーク
     - React Native Jquery React OpenLayers Dojo .NET Core Unity JSP NestJs CakePHP
   - 状態管理
-    - Recoil useState useContext
+    - Recoil useState useContext jotai
   - デザイン
     - HTML CSS Bootstrap
   - エディタ
@@ -37,6 +37,9 @@
     - iOSとAndroidをビルドして、ストアに登録
   - ORM
     - TypeORM
+  - ミドルウェア
+    - Nginx
+      - ローカルでCakePHPの開発環境構築時
 
 - 個人学習スキル
   - 規模: 1人
