@@ -2,9 +2,9 @@
   - システム開発歴4年6ヶ月
   - 規模: 4-10人、役割: メンバー
   - プログラミング言語
-    - JavaScript TypeScriipt VBA Java C# PHP
+    - JavaScript(2年) TypeScriipt(1年) VBA(3ヶ月) Java(３ヶ月) C#(1年半) PHP(1ヶ月)
   - フレームワーク
-    - React Native Jquery React OpenLayers Dojo .NET Core Unity JSP NestJs CakePHP
+    - React Native(1年) Jquery(半年) React(３ヶ月) OpenLayers(3ヶ月) Dojo(3ヶ月) .NET Core(半年) Unity(1年) JSP(3ヶ月) NestJs(1ヶ月) CakePHP(1ヶ月)
   - 状態管理
     - Recoil useState useContext jotai
   - デザイン
