@@ -71,7 +71,7 @@
   - ORM
     - Active Record
   - 工程
-    - 要件定義から実装、テスト
+    - 構想から実装、テスト
   - タスク管理
     - GitHub Issue
   - 認証
