@@ -1,81 +1,19 @@
 - 経験スキル
-  - システム開発歴4年6ヶ月
   - 規模: 4-10人、役割: メンバー
-  - プログラミング言語
-    - JavaScript(2年) TypeScriipt(1年) VBA(3ヶ月) Java(３ヶ月) C#(1年半) PHP(1ヶ月)
-  - フレームワーク
-    - React Native(1年) Jquery(半年) React(３ヶ月) OpenLayers(3ヶ月) Dojo(3ヶ月) .NET Core(半年) Unity(1年) JSP(3ヶ月) NestJs(1ヶ月) CakePHP(1ヶ月)
-  - 状態管理
-    - Recoil useState useContext jotai
-  - デザイン
-    - HTML CSS Bootstrap
-  - エディタ
-    - Eclipse Visual Studio サクラエディタ VS Code メモ帳
-  - その他
-    - Ajax JSON
-  - DB
-    - PostgreSQL SQL Server
-  - バージョン管理
-    - SVN、Git
-  - OS
-    - Windows Mac Linux iOS Android
-  - メッセージ
-    - IP Messenger Chatwork Slack Gmail
-  - 工程
-    - 詳細設計書なしでの実装 単体試験 結合試験、デザイナー、企画者のスライド、口頭の指示からの実装
-  - 設計書
-    - 既存システムへの機能追加時に、機能・画面説明書の作成(Word、Excel)
-  - DB設計
-    - カラム数が5個程度のテーブル設計(Excel)、カラムの追加
-  - タスク管理
-    - Excel スプレッドシート Backlog Redmine
-  - Docker
-    - MySql
-  - インフラ
-    - Firebase
-  - デプロイ
-    - iOSとAndroidをビルドして、ストアに登録
-  - ORM
-    - TypeORM
-  - ミドルウェア
-    - Nginx
-      - ローカルでCakePHPの開発環境構築時
-
-- 個人学習スキル
-  - 規模: 1人
-  - プログラミング言語
-    - Python Ruby
-  - フレームワーク
-    - FastApi Next.js Rails Reaflet
-  - 状態管理
-    - Redux
-  - デザイン
-    - Tailwind Shadcn DaisyUI
-  - エディタ
-    - Antigravity Cursor
-  - DB設計
-    - 技術試験で10-20のテーブルをER図で書く
-  - 設計
-    - N+1問題
-      - 技術試験でN+1問題をとく
-   - Fat Controller対策
-      - 技術試験でSinatraでRoute、Controllerが同一ファイルにあるのを分割
-      - RailsでService Object、Query Object、Form Objectなどを導入
-  - Docker
-    - Rails Vue.js PostgeSQL
-    - 技術試験でDocker(Rails MySql)を立ち上げコードを修正
-  - デプロイ
-    - Vercel Heroku Firebase 参考書でAWSのインフラ構築
-  - テストコード
-    - Minitest RSpec
-  - ORM
-    - Active Record
-  - 工程
-    - 構想から実装、テスト
-  - タスク管理
-    - GitHub Issue
-  - 認証
-    - Rails Tutorialでハッシュ化しての暗号化
+  - HTML、CSS、Bootstrap
+  - TypeScriipt(React Native)
+  - JavaScript(Jquery、地図のライブラリのOpenLayers、Jqueryと類似のDojo)
+  - Ajax、JSON
+  - C#(.NET Core、Unity)、Java(JSP)、VBA
+  - PostgreSQL、SQL Server、MySQL
+  - SVN、Git
+  - Windows、Mac
+  - IP Messenger、Chatwork、Slack
+  - Eclipse、Visual Studio、サクラエディタ、VS Code
+  - 詳細設計書なしでの実装、単体試験、結合試験
+  - デザイナー、企画者のスライド、口頭の指示からの実装
+  - 既存システムへの機能追加時に、機能・画面説明書の作成(Word、Excel)
+  - カラム数が5個程度のテーブル設計(Excel)、カラムの追加
 
 <!--
 ## Hi there 👋
