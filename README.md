@@ -1,6 +1,6 @@
 # ポートフォリオ
 - 出勤管理サイト
-  - codex
+  - Codexでコードを実装
     - <img width="796" height="603" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
     - リポジトリ
       - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
@@ -8,12 +8,12 @@
       - [TanStack Start Starter](https://attendance-management-codex.tvhfrks12678.workers.dev/)
 
 - 音楽のラップの韻のクイズサイト
-  - 人力
+  - 自分でコードを実装
     - <img width="588" height="794" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
     - リポジトリ
       - [tvhfrks12678/rhyme\-quiz\-front](https://github.com/tvhfrks12678/rhyme-quiz-front)
        
-  - codex
+  - Codexでコードを実装
     - <img width="738" height="818" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
     - リポジトリ
       - [tvhfrks12678/rhyme\-quiz\-codex](https://github.com/tvhfrks12678/rhyme-quiz-codex)
