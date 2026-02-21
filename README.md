@@ -7,6 +7,10 @@
   - codex
     - [tvhfrks12678/rhyme\-quiz\-codex](https://github.com/tvhfrks12678/rhyme-quiz-codex)
 
+
+<img width="588" height="794" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
+
+
 <!--
 ## Hi there 👋
 **tvhfrks12678/tvhfrks12678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
