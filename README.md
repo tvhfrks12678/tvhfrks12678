@@ -1,4 +1,11 @@
 # ポートフォリオ
+- 出勤管理サイト
+  - codex
+    - <img width="796" height="603" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
+    - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
+    - URL
+      - [TanStack Start Starter](https://attendance-management-codex.tvhfrks12678.workers.dev/)
+
 - 音楽のラップの韻のクイズサイト
   - 人力
     - <img width="588" height="794" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
@@ -15,12 +22,7 @@
   - claude code
     - [tvhfrks12678/rhyme\-quiz\-claude](https://github.com/tvhfrks12678/rhyme-quiz-claude)
 
-- 出勤管理サイト
-  - codex
-    - <img width="796" height="603" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
-    - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
-    - URL
-      - [TanStack Start Starter](https://attendance-management-codex.tvhfrks12678.workers.dev/)
+
 
 
 
