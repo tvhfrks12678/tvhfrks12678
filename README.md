@@ -1,26 +1,31 @@
 
 # ポートフォリオ
-- 音楽のラップの韻のクイズサイト
-  - クイズの表示部分のみできている
-    - <img width="588" height="794" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
-    - リポジトリ
-      - [tvhfrks12678/rhyme\-quiz\-front](https://github.com/tvhfrks12678/rhyme-quiz-front)
+## 音楽のラップの韻のクイズサイト
+<img width="588" height="794" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
 
-- 出勤管理サイト
-  - AIのCodexでコードを実装中
-    - <img width="796" height="603" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
-    - リポジトリ
-      - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
-    - URL
-      - [出勤管理サイト](https://attendance-management-codex.tvhfrks12678.workers.dev/)
+- クイズの表示部分のみ作成
+  - リポジトリ
+    - [tvhfrks12678/rhyme\-quiz\-front](https://github.com/tvhfrks12678/rhyme-quiz-front)
 
-- 音楽のラップの韻のクイズサイト      
-  - AIのCodexでコードを実装中
-    - <img width="738" height="818" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
-    - リポジトリ
-      - [tvhfrks12678/rhyme\-quiz\-codex](https://github.com/tvhfrks12678/rhyme-quiz-codex)
-    - URL
-      - [韻クイズ](https://rhyme-quiz-codex.tvhfrks12678.workers.dev/quiz)
+
+## 出勤管理サイト
+<img width="796" height="603" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
+
+- AIのCodexでコードを実装中
+  - リポジトリ
+    - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
+  - URL
+    - [出勤管理](https://attendance-management-codex.tvhfrks12678.workers.dev/)
+
+
+## 音楽のラップの韻のクイズサイト
+<img width="738" height="818" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
+
+- AIのCodexでコードを実装中
+  - リポジトリ
+    - [tvhfrks12678/rhyme\-quiz\-codex](https://github.com/tvhfrks12678/rhyme-quiz-codex)
+  - URL
+    - [韻クイズ](https://rhyme-quiz-codex.tvhfrks12678.workers.dev/quiz)
 
 <!--
 ## Hi there 👋
