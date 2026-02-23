@@ -1,6 +1,19 @@
 
 # ポートフォリオ
 ## 音楽のラップの韻のクイズサイト
+<img width="250" height="675" alt="スクリーンショット 2026-02-23 16 42 33" src="https://github.com/user-attachments/assets/04f53492-d269-4a95-92c0-096a6382cd0e" />
+<br>
+<img width="250" height="490" alt="スクリーンショット 2026-02-23 16 42 55" src="https://github.com/user-attachments/assets/64ecbac4-af29-4d7d-a367-2d889c574f46" />
+
+- 概要
+  - コードはAIのClaude Codeで実装
+- URL
+  - [韻クイズ](https://rhyme-quiz-claude.tvhfrks12678.workers.dev/quiz)
+- リポジトリ
+  - [tvhfrks12678/rhyme\-quiz\-claude](https://github.com/tvhfrks12678/rhyme-quiz-claude)
+
+
+## 音楽のラップの韻のクイズサイト
 <img width="300" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
 
 - 概要
@@ -20,17 +33,6 @@
   - [出勤管理](https://attendance-management-codex.tvhfrks12678.workers.dev/)
 - リポジトリ
   - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
-
-
-## 音楽のラップの韻のクイズサイト
-<img width="300" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
-
-- 概要
-  - AIのCodexでコードを実装中
-- URL
-  - [韻クイズ](https://rhyme-quiz-codex.tvhfrks12678.workers.dev/quiz)
-- リポジトリ
-  - [tvhfrks12678/rhyme\-quiz\-codex](https://github.com/tvhfrks12678/rhyme-quiz-codex)
 
 <!--
 ## Hi there 👋
