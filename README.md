@@ -6,7 +6,7 @@
 <img width="250" height="490" alt="スクリーンショット 2026-02-23 16 42 55" src="https://github.com/user-attachments/assets/64ecbac4-af29-4d7d-a367-2d889c574f46" />
 
 - 概要
-  - コードはAIのClaude Codeで実装
+  - AIにコードを書かせて実装（Claude Code使用）
 - URL
   - [韻クイズ](https://rhyme-quiz-claude.tvhfrks12678.workers.dev/quiz)
 - リポジトリ
@@ -28,7 +28,7 @@
 <img width="300" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
 
 - 概要
-  - AIのCodexでコードを実装中
+  - AIにコードを書かせて実装（Codex使用）
 - URL
   - [出勤管理](https://attendance-management-codex.tvhfrks12678.workers.dev/)
 - リポジトリ
