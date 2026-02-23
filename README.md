@@ -14,7 +14,7 @@
 
 
 ## 音楽のラップの韻のクイズサイト
-<img width="300" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
+<img width="250" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
 
 - 概要
   - クイズの表示部分のみ作成
@@ -25,15 +25,14 @@
 
 
 ## 出勤管理サイト
-<img width="300" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
+<img width="250" height="810" alt="スクリーンショット 2026-02-23 19 51 13" src="https://github.com/user-attachments/assets/b99ce4b2-67a0-4f7f-9296-73781f0a79be" />
 
 - 概要
-  - AIにコードを書かせて実装（Codex使用）
+  - AIにコードを書かせて実装（Claude Codeを使用）
 - URL
-  - [出勤管理](https://attendance-management-codex.tvhfrks12678.workers.dev/)
+  - [出勤管理](https://attendance-management-claude.tvhfrks12678.workers.dev/)
 - リポジトリ
-  - [tvhfrks12678/attendance\-management\-codex](https://github.com/tvhfrks12678/attendance-management-codex)
-
+  - [tvhfrks12678/attendance\-management\-claude](https://github.com/tvhfrks12678/attendance-management-claude)
 <!--
 ## Hi there 👋
 **tvhfrks12678/tvhfrks12678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
