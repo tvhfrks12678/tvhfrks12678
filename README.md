@@ -1,7 +1,7 @@
 
 # ポートフォリオ
 ## 音楽のラップの韻のクイズサイト
-<img width="400" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
+<img width="300" alt="スクリーンショット 2026-02-21 13 54 49" src="https://github.com/user-attachments/assets/8edb0527-d371-4cfe-9f5a-70d4b7c8564c" />
 
 - クイズの表示部分のみ作成
   - リポジトリ
@@ -9,7 +9,7 @@
 
 
 ## 出勤管理サイト
-<img width="400" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
+<img width="300" alt="スクリーンショット 2026-02-21 18 36 39" src="https://github.com/user-attachments/assets/5368e967-e474-43b9-8ae2-d25cfbae1cec" />
 
 - AIのCodexでコードを実装中
   - リポジトリ
@@ -19,7 +19,7 @@
 
 
 ## 音楽のラップの韻のクイズサイト
-<img width="400" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
+<img width="300" alt="スクリーンショット 2026-02-21 15 46 58" src="https://github.com/user-attachments/assets/6721f11d-f58c-4b12-a726-a044ce0f8c6f" />
 
 - AIのCodexでコードを実装中
   - リポジトリ
