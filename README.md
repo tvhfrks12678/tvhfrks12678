@@ -19,7 +19,7 @@
 - 概要
   - AIにコードを書かせて実装（Claude Code使用）
 - URL
-  - [韻クイズ](https://rhyme-quiz-claude.tvhfrks12678.workers.dev/quiz)
+  - [韻クイズ](https://rhyme-quiz-claude.tvhfrks12678.workers.dev/)
 - リポジトリ
   - [tvhfrks12678/rhyme\-quiz\-claude](https://github.com/tvhfrks12678/rhyme-quiz-claude)
 
