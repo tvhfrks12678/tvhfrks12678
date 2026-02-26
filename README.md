@@ -1,16 +1,4 @@
 # ポートフォリオ
-## 出勤管理サイト
-<img width="250" height="801" alt="スクリーンショット 2026-02-25 19 52 07" src="https://github.com/user-attachments/assets/c203a2ab-4c6e-40a8-b063-cb9701f54e45" />
-
-
-- 概要
-  - AIにコードを書かせて実装
-- URL
-  - [出勤管理](https://attendance-management-claude.tvhfrks12678.workers.dev/)
-- リポジトリ
-  - [tvhfrks12678/attendance\-management\-claude](https://github.com/tvhfrks12678/attendance-management-claude)
-
-
 ## 音楽のラップの韻のクイズサイト
 <img width="250" alt="スクリーンショット 2026-02-26 0 21 17" src="https://github.com/user-attachments/assets/011fe1bd-92eb-456c-9166-c3f5211a4462" />
 <br>
@@ -26,6 +14,18 @@
   - [韻クイズ](https://rhyme-quiz-claude.tvhfrks12678.workers.dev/)
 - リポジトリ
   - [tvhfrks12678/rhyme\-quiz\-claude](https://github.com/tvhfrks12678/rhyme-quiz-claude)
+
+
+## 出勤管理サイト
+<img width="250" height="801" alt="スクリーンショット 2026-02-25 19 52 07" src="https://github.com/user-attachments/assets/c203a2ab-4c6e-40a8-b063-cb9701f54e45" />
+
+
+- 概要
+  - AIにコードを書かせて実装
+- URL
+  - [出勤管理](https://attendance-management-claude.tvhfrks12678.workers.dev/)
+- リポジトリ
+  - [tvhfrks12678/attendance\-management\-claude](https://github.com/tvhfrks12678/attendance-management-claude)
 
 
 ## 音楽のラップの韻のクイズサイト
